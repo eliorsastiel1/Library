@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Wellcome">Wellcome! , sign in please!</string>
+    <string name="sign_up_title">sign up please!</string>
+    <string name="sign_up_btn">Sign up</string>
+    <string name="sign_in_btn">Sign in</string>
+    <string name="Submit">Submit</string>
+    <string name="Firstname">First Name</string>
+    <string name="Lastname">Last Name</string>
+    <string name="Address">Address</string>
+    <string name="README">Read me</string>
+    <string name="map">map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="tap_to_add_img">Tap To Add Img</string>
+    <string name="UserDetails">User Details</string>
+    <string name="README_txt">מטרת האפליקציה היא לתת ממשק נוח ללקוחות הסיפרייה, לדעת האם הספר זמין להשאלה, אצל מי הוא נמצא, ועוד כמה זמן ניתן יהיה להשאיל אותו.</string>
+</resources>

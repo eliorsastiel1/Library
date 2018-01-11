@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/elior/library/MenuActivity.java</file>
+    <line>88</line>
+    <module>app</module>
+    <package>elior.library</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/elior/library/MenuActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">TextView Internationalization</problem_class>
+    <hints />
+    <description>&lt;html&gt;Do not concatenate text displayed with &lt;code&gt;setText&lt;/code&gt;. Use resource string with placeholders.&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/elior/library/MenuActivity.java</file>
+    <line>88</line>
+    <module>app</module>
+    <package>elior.library</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/elior/library/MenuActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">TextView Internationalization</problem_class>
+    <hints />
+    <description>&lt;html&gt;String literal in &lt;code&gt;setText&lt;/code&gt; can not be translated. Use Android resources instead.&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/elior/library/MenuActivity.java</file>
+    <line>89</line>
+    <module>app</module>
+    <package>elior.library</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/elior/library/MenuActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">TextView Internationalization</problem_class>
+    <hints />
+    <description>&lt;html&gt;Do not concatenate text displayed with &lt;code&gt;setText&lt;/code&gt;. Use resource string with placeholders.&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/elior/library/MenuActivity.java</file>
+    <line>89</line>
+    <module>app</module>
+    <package>elior.library</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/elior/library/MenuActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">TextView Internationalization</problem_class>
+    <hints />
+    <description>&lt;html&gt;String literal in &lt;code&gt;setText&lt;/code&gt; can not be translated. Use Android resources instead.&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/elior/library/MenuActivity.java</file>
+    <line>90</line>
+    <module>app</module>
+    <package>elior.library</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/elior/library/MenuActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">TextView Internationalization</problem_class>
+    <hints />
+    <description>&lt;html&gt;Do not concatenate text displayed with &lt;code&gt;setText&lt;/code&gt;. Use resource string with placeholders.&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/elior/library/MenuActivity.java</file>
+    <line>90</line>
+    <module>app</module>
+    <package>elior.library</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/elior/library/MenuActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">TextView Internationalization</problem_class>
+    <hints />
+    <description>&lt;html&gt;String literal in &lt;code&gt;setText&lt;/code&gt; can not be translated. Use Android resources instead.&lt;/html&gt;</description>
+  </problem>
+</problems>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/elior/library/User.java</file>
+    <line>24</line>
+    <module>app</module>
+    <package>elior.library</package>
+    <entry_point TYPE="method" FQNAME="elior.library.User boolean isValidEmail(elior.library.User u)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant 'if' statement</problem_class>
+    <description>&lt;code&gt;if&lt;/code&gt; statement can be simplified #loc</description>
+  </problem>
+</problems>
+

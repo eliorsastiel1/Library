@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/build.gradle</file>
+    <line>38</line>
+    <module>app</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/build.gradle" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+    <hints />
+    <description>&lt;html&gt;A newer version of com.android.support:support-annotations than 22.2.0 is available: 25.3.1&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/build.gradle</file>
+    <line>47</line>
+    <module>app</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/build.gradle" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+    <hints />
+    <description>&lt;html&gt;A newer version of com.android.support.test.uiautomator:uiautomator-v18 than 2.0.0 is available: 2.1.2&lt;/html&gt;</description>
+  </problem>
+</problems>
+

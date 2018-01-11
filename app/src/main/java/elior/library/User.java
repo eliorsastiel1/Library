@@ -5,35 +5,26 @@ package elior.library;
  */
 
 public class User {
-    private String firstName;
-    private String lastName;
-    private String email;
-    private String address;
-    private String Password;
+    public String firstName;
+    public String lastName;
+    public String email;
+    public String address;
+    public String Password;
+    public String ID;
 
-    public User(String firstName, String lastName, String email, String address, String Password ){
-        this.firstName=firstName;
-        this.lastName=lastName;
-        this.email=email;
-        this.address=address;
-        this.Password=Password;
+    public User(){
+
     }
 
-    public void setFirstName(String firstName){
-        this.firstName=firstName;
+    public String getEmailAddress(){
+        return email;
     }
 
-    public void setLastName(String lastName){
-        this.lastName=lastName;
-    }
-    public void setEmail(String email){
-        this.email=email;
-    }
-    public void setAddresse(String address){
-        this.address=address;
-    }
-    public void setPassword(String Password){
-        this.Password=Password;
+    public static boolean isValidEmail(User u){
+        if(u.email!=null){
+            return true;
+        }
+        else return false;
     }
 
 }
